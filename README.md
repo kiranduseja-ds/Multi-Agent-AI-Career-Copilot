@@ -1,25 +1,24 @@
 # Multi-Agent-AI-Career-Copilot
-# Hi, I'm Kiran Duseja 👋
+# Project Name
 
-AI/ML Engineer focused on:
-- Generative AI
-- RAG Applications
-- Agentic AI
-- Machine Learning
-- NLP
-- Python Backend Development
+## Overview
+Short project explanation.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Tech Stack
-Python | SQL | LangChain | CrewAI | FastAPI | Streamlit | FAISS | Scikit-learn
-
-## Featured Projects
-- Multi-Agent AI Career Copilot
-- RAG-Based Document Q&A Chatbot
-- Customer Segmentation & Churn Prediction
-- NLP Sentiment Analysis
-
-## Currently Learning
-- Agentic AI
+- Python
+- LangChain
+- FAISS
 - FastAPI
-- AI Deployment
-- AWS & Azure Basics
+
+## Architecture
+Explain workflow.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
