@@ -1,24 +1,24 @@
-# Multi-Agent-AI-Career-Copilot
-# Project Name
+# Multi-Agent AI Career Copilot
 
 ## Overview
-Short project explanation.
+AI system that analyzes resumes, matches jobs, generates interview questions, and provides learning recommendations using multiple AI agents.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Resume Analysis
+- Job Matching
+- AI Interview Questions
+- Learning Roadmap
+- RAG-based Q&A
 
 ## Tech Stack
 - Python
+- CrewAI
 - LangChain
 - FAISS
 - FastAPI
+- Streamlit
 
-## Architecture
-Explain workflow.
-
-## Installation
-
-```bash
-pip install -r requirements.txt
+## Future Improvements
+- Add memory
+- Deploy online
+- Add authentication
