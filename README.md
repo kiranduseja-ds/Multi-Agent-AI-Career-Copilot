@@ -22,3 +22,7 @@ AI system that analyzes resumes, matches jobs, generates interview questions, an
 - Add memory
 - Deploy online
 - Add authentication
+-
+##LIVE PROJECT
+https://www.loom.com/share/6b97358c1570472fb03cd0d7b7fc6de9
+- 
